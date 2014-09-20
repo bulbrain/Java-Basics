@@ -1,0 +1,2 @@
+I used javac and the name of the class with the .java extention to compile the 
+program and java and the name of the program withount the extention to run it.
